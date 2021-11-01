@@ -6,7 +6,7 @@ Project files for the [MCreator](https://mcreator.net/) example and tutorial.
 EXAMPLE VERSION INFORMATION
 
 * MINECRAFT: 1.16.5
-* MCREATOR: 2021.1
+* MCREATOR: 2021.2
 * FORGE: 36.1.0
 
 ### LICENCE
