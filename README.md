@@ -1,4 +1,4 @@
-![Gun Block](https://i.imgur.com/wNvDPoW.png)
+![Powered Armor](https://i.imgur.com/HM3PTXK.png)
 # POWERED ARMOR
 Project files for the [MCreator](https://mcreator.net/) example and tutorial.
 
